@@ -6,12 +6,21 @@ h1 {
 .row{
   background-color: #ffeee6 ;
     height: 200px ;
-    width: 100%;
-    border: 5px solid black;
-    padding: 25px;
+    width: 75% ;
+    border: 5px solid black ;
+    padding: 25px ;
     margin: 25px ;
+  font-size:150% ;
 }
+
 .row1{
-  text-size: 150%;
-    text-align: center
+  text-align: left ;
+}
+
+.row2{
+  text-align: center ;
+}
+
+.row3{
+  text-align: right ;
 }
