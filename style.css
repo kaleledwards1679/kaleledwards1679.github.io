@@ -7,9 +7,9 @@ h1 {
   background-color: #ffeee6 ;
     height: 200px ;
     width: 75% ;
-    border: 5px solid black ;
+    border: 2px solid black ;
     padding: 25px ;
-    margin: 25px ;
+    margin: auto ;
   font-size:100px ;
 }
 
