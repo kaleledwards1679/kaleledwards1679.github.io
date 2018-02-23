@@ -3,18 +3,6 @@ h1 {
   text-align: center ;
 }
 
-p  {
-  margin: 100px 80px 100px 150px ;
-}
-
-div{
-  background-color: lightgrey;
-    width: 300px;
-    border: 25px solid green;
-    padding: 25px;
-    margin: 25px;
-}
-
 .row{
   background-color: #ffeee6;
     width: 75%;
