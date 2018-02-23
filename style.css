@@ -13,16 +13,18 @@ h1 {
   font-size:100px ;
 }
 
-.row1{
+#row1{
   text-align: left ;
 }
-.row2{
+#row2{
   text-align: center ;
 }
 
-.row3{
+#row3{
   text-align: right ;
 }
+
+--------------------------------------------------------------------------------------------------
 
 a:link{ 
   color: green;
