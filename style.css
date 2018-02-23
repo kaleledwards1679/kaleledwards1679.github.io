@@ -14,3 +14,11 @@ div{
     padding: 25px;
     margin: 25px;
 }
+
+.row{
+  background-color: lightgrey;
+    widths: full;
+    border: 25px solid black;
+    padding: 25px;
+    margin: 25px
+}
