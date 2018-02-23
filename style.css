@@ -16,9 +16,9 @@ div{
 }
 
 .row{
-  background-color: lightgrey;
-    width: 100%;
-    border: 25px solid black;
+  background-color: #ffeee6;
+    width: 75%;
+    border: 5px solid black;
     padding: 25px;
     margin: 25px
 }
