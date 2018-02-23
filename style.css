@@ -17,7 +17,7 @@ div{
 
 .row{
   background-color: lightgrey;
-    widths: full;
+    width: 100%;
     border: 25px solid black;
     padding: 25px;
     margin: 25px
