@@ -5,7 +5,8 @@ h1 {
 
 .row{
   background-color: #ffeee6;
-    width: 75%;
+    height: 200px
+    width: 100%;
     border: 5px solid black;
     padding: 25px;
     margin: 25px
