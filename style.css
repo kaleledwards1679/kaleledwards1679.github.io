@@ -1,15 +1,16 @@
 h1 {
   color: navy ;
   text-align: center ;
-  border-color: red ;
 }
 
 p  {
   margin: 100px 80px 100px 150px ;
-  border-color: powderblue ;
 }
 
 div{
-  margin: 100px 80px 100px 150px ;
-  border-color: black ;
+  background-color: lightgrey;
+    width: 300px;
+    border: 25px solid green;
+    padding: 25px;
+    margin: 25px;
 }
