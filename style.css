@@ -16,11 +16,28 @@ h1 {
 .row1{
   text-align: left ;
 }
-
 .row2{
   text-align: center ;
 }
 
 .row3{
   text-align: right ;
+}
+
+a:link{ 
+  color: green;
+  
+}
+
+a:visited{ 
+  color: blue;
+}
+
+a:hover{ 
+  color:red;
+  
+}
+
+a:active{
+  color:powder-blue;
 }
