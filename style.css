@@ -13,14 +13,14 @@ h1 {
   font-size:100px ;
 }
 
-#row1{
+#left{
   text-align: left ;
 }
-#row2{
+#center{
   text-align: center ;
 }
 
-#row3{
+#right{
   text-align: right ;
 }
 
